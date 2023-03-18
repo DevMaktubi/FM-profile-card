@@ -23,7 +23,7 @@ function App() {
                 Victor Crest{" "}
                 <span className="text-gray font-normal ml-2">26</span>
               </h1>
-              <h3 className="text-gray text-subtitle">London</h3>
+              <h2 className="text-gray text-subtitle">London</h2>
             </div>
           </div>
           <div className="grid grid-cols-3 border-t border-border border-opacity-30 w-full py-6 px-12">
