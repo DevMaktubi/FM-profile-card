@@ -32,8 +32,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-profile-card-component-2uENlFi_13)
+- Live Site URL: [Vercel](https://fm-profile-card-sandy.vercel.app/)
 
 ## My process
 
